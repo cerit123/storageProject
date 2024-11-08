@@ -10,7 +10,7 @@ public class Product {
     public String unit;       //birim
     public String shelf = null;//raf
 
-    public Product(int id, String name, String manufacturer, String unit) { //int id ekle
+    public Product(int id, String  name, String manufacturer, String unit) { //int id ekle
         this.id = id;
         this.name = name;
         this.manufacturer = manufacturer;
