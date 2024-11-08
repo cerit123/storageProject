@@ -6,7 +6,7 @@ public class Product {
     public int id;
     public String name;  // urun adi
     public String manufacturer;// uretici
-    public int quantity = 0;      //adet
+    public int quantity = 0 ;      //adet
     public String unit;       //birim
     public String shelf = null;//raf
 
